@@ -1,3 +1,3 @@
 # This is the main file 
 
-#adding a new feature - feature1
+#adding one new feature - feature1
